@@ -6,3 +6,6 @@ node_module
 
 # Ignore bin folder
 **/bin
+bin
+
+**/*.dll
